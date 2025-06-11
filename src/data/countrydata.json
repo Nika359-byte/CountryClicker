@@ -1,0 +1,64 @@
+{
+  "countries": [
+    {
+      "id": "US",
+      "name": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129
+    },
+    {
+      "id": "CA",
+      "name": "Canada",
+      "lat": 56.1304,
+      "lng": -106.3468
+    },
+    {
+      "id": "GB",
+      "name": "United Kingdom",
+      "lat": 55.3781,
+      "lng": -3.436
+    },
+    {
+      "id": "DE",
+      "name": "Germany",
+      "lat": 51.1657,
+      "lng": 10.4515
+    },
+    {
+      "id": "FR",
+      "name": "France",
+      "lat": 46.2276,
+      "lng": 2.2137
+    },
+    {
+      "id": "JP",
+      "name": "Japan",
+      "lat": 36.2048,
+      "lng": 138.2529
+    },
+    {
+      "id": "AU",
+      "name": "Australia",
+      "lat": -25.2744,
+      "lng": 133.7751
+    },
+    {
+      "id": "BR",
+      "name": "Brazil",
+      "lat": -14.235,
+      "lng": -51.9253
+    },
+    {
+      "id": "IN",
+      "name": "India",
+      "lat": 20.5937,
+      "lng": 78.9629
+    },
+    {
+      "id": "ZA",
+      "name": "South Africa",
+      "lat": -30.5595,
+      "lng": 22.9375
+    }
+  ]
+}
