@@ -2,14 +2,14 @@
   "countries": [
     {
       "country": "United States",
-      "city": "Jacksonville, Florida",
+      "city": "Jacksonville",
       "lat": 30.3322,
       "lng": -81.6557,
       "countryId": "US"
     },
     {
       "country": "Canada",
-      "city": "Edmonton, Alberta",
+      "city": "Edmonton",
       "lat": 53.6667,
       "lng": -113.467,
       "countryId": "CA"
