@@ -18,7 +18,7 @@
 
 ### Information about a given country
 
-- https://restcountries.com/#endpoints-name
+- https://restcountries.com/#endpoints-code
 
 # Routing
 
