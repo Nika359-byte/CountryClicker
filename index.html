@@ -1,13 +1,58 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + React</title>
+    <title>CountryClicker</title>
+    <link rel="stylesheet" href="index.css" />
+
+
   </head>
   <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
+    
+<div class="header">
+  <div class="top-line1"></div>
+  <div class="top-line2"></div>
+  
+  <div id="line"></div>
+  <div><p id="logo">AST Networks</p></div>
+  <div><img id="icon" src="images/whitePlanet.png"></div>
+  <div><img id="earth" src="images/earth.gif"></div>
+  <div><p id="titleC" class="mainTitle">C</p></div>
+  <div><p id="titleCountry" class="mainTitle">ountry</p></div>
+  <div><p id="titleClicker" class="mainTitle">licker</p></div>
+  <div><i><p id="cityGlobalForecast">City Global Forecast</p></i></div>
+</div>
+    
+
+    <input
+  type="text"
+  id="searchInput"
+  placeholder="Search by City/Country"
+/>
+
+
+  <table id="dataTable">
+    <thead>
+      <tr>
+        <th>City</th>
+        <th>Country</th>
+        <th>Location</th>
+        <th>Sunrise</th>
+        <th>Sunset</th>
+        <th>Weather Conditions</th>
+        <th>Temperature</th>
+        <th>Wind Speed</th>
+        <th>Last Update</th>
+      </tr>
+    </thead>
+    <tbody>
+      
+    </tbody>
+  </table>
+
+
+
+<script src="index.js"></script>
   </body>
 </html>

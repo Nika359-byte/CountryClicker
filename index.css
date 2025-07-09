@@ -1,0 +1,211 @@
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+/*header*/
+.top-line1 {
+  width: 73%;
+  height:2px; 
+  background-color: #21b3e7; 
+  position: absolute;
+  top: 85px;
+  left: 0;
+  z-index: 10;
+}
+
+.top-line2 {
+  width: 5%;
+  height:2px; 
+  background-color: #21b3e7; 
+  position: absolute;
+  top: 85px;
+  right: 0;
+  z-index: 9;
+}
+
+.header {
+  width: 100%;
+  height: 350px;
+  background-color: #18253c;
+  position:relative;
+}
+
+
+
+#logo {
+  color:white;
+  font-family: "titillium web";
+  font-size: 35px;
+  position: absolute;
+  left: 100px;
+  top: 10px;
+}
+
+#icon {
+  position: absolute;
+  left: 45px;
+  top: 40px;
+  width: 45px;
+  height:auto;
+}
+
+#earth {
+  position:absolute;
+  width: 250px;
+  height: auto;
+  z-index: 11;
+  top: 25px;
+  right: 180px;
+}
+
+
+
+.mainTitle{
+  color: #21b3e7;
+  font-family: "Garamond", serif;
+  position: absolute;
+  letter-spacing: 8px;
+  text-shadow: #21b3e7 1px 1px;
+}
+
+#titleC{
+  font-size: 250px;
+  left: 390px;
+  top: -180px;
+}
+
+#titleCountry{
+  font-size: 105px;
+  top: -5px;
+  left: 553px;
+}
+
+#titleClicker{
+  font-size: 105px;
+  top: 90px;
+  left: 560px;
+}
+
+#cityGlobalForecast{
+  color: white;
+  font-size: 35px;
+  font-family: "Garamond", serif;
+  position: absolute;
+  letter-spacing: 5px;
+  top:260px;
+  left: 465px;
+
+}
+
+/*searchbar*/
+#searchInput {
+  width: 300px;
+  height: 50px;
+  text-align: center;
+  background-color: white;
+  opacity: 80%;
+  padding: 12px 16px;
+  font-size: 20px;
+  font-family: "Garamond", serif;
+  margin: 20px 0;
+  border: 3px solid white;
+  border-radius: 90px;
+  box-sizing: border-box;
+  outline: none;
+  transition: border-color 0.5s ease;
+  transition: opacity 0.5s ease;
+  position: absolute;
+  top:170px;
+  left: 1030px;
+}
+
+#searchInput:focus {
+  border-color: #21b3e7;
+  box-shadow: 0 0 5px rgba(33, 179, 231, 0.5);
+  opacity: 100%;
+}
+
+/*table*/
+#dataTable{
+  position:absolute;
+  top:350px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+}
+
+
+td {
+  padding: 10px;
+  border: 1px solid #21b3e7;
+  text-align: left;
+  font-family: "Garamond", serif;
+  font-size: 20px;
+}
+
+th {
+  background-color: #21b3e7;
+  color: white;
+  padding: 10px;
+  border: 1px solid #fff;
+  text-align: left;
+  font-family: "Garamond", serif;
+  font-size: 20px;
+}
+
+#dataTable tbody tr:hover {
+  background-color: #18253c; 
+  cursor: pointer;
+  color: white;
+}
+
+
+body {
+  background-color: white;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden; 
+}
+
+

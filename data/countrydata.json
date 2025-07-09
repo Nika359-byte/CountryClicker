@@ -1,0 +1,102 @@
+ { 
+  "countries": [
+    {
+      "country": "United States",
+      "city": "Jacksonville",
+      "lat": 30.3322,
+      "lng": -81.6557,
+      "countryId": "US"
+    },
+    {
+      "country": "Canada",
+      "city": "Edmonton",
+      "lat": 53.6667,
+      "lng": -113.467,
+      "countryId": "CA"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "Leicester",
+      "lat": 52.6369,
+      "lng": -1.1398,
+      "countryId": "GB"
+    },
+    {
+      "country": "Germany",
+      "city": "Dresden",
+      "lat": 51.0504,
+      "lng": 13.7373,
+      "countryId": "DE"
+    },
+    {
+      "country": "France",
+      "city": "Montpellier",
+      "lat": 43.6108,
+      "lng": 3.8767,
+      "countryId": "FR"
+    },
+    {
+      "country": "Japan",
+      "city": "Sapporo",
+      "lat": 43.0618,
+      "lng": 141.3545,
+      "countryId": "JP"
+    },
+    {
+      "country": "Australia",
+      "city": "Adelaide",
+      "lat": -34.9212,
+      "lng": 138.5995,
+      "countryId": "AU"
+    },
+    {
+      "country": "Brazil",
+      "city": "Recife",
+      "lat": -8.0476,
+      "lng": -34.877,
+      "countryId": "BR"
+    },
+    {
+      "country": "India",
+      "city": "Hyderabad",
+      "lat": 17.3871,
+      "lng": 78.4917,
+      "countryId": "IN"
+    },
+    {
+      "country": "South Africa",
+      "city": "Port Elizabeth",
+      "lat": -33.9186,
+      "lng": 25.5707,
+      "countryId": "ZA"
+    },
+    {
+  "country": "Ukraine",
+  "city": "Kharkiv",
+  "lat": 49.9935,
+  "lng": 36.2304,
+  "countryId": "UA"
+    },
+    {
+  "country": "Japan",
+  "city": "Tokyo",
+  "lat": 35.6895,
+  "lng": 139.6917,
+  "countryId": "JP"
+},
+{
+  "country": "United Kingdom",
+  "city": "London",
+  "lat": 51.5072,
+  "lng": -0.1276,
+  "countryId": "GB"
+},
+{
+  "country": "United Kingdom",
+  "city": "Lowestoft",
+  "lat": 52.4751,
+  "lng": 1.7516,
+  "countryId": "GB"
+} 
+  ]
+}
